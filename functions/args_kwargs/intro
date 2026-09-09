@@ -1,0 +1,4 @@
+*args - accept any no of parameters as tuples
+*kwargs - accept any no of parameters as dictionary
+
+return requires print in function call

@@ -1,0 +1,8 @@
+print("FRUITS...")
+print("APPLE",end=" | ")
+print("MANGO",end=" | ")
+print("ORANGE")
+print("vegetables...")
+print("onion",end=" - ")
+print("potato",end=" - ")
+print("tomato")

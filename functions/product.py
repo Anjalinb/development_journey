@@ -1,0 +1,6 @@
+def product():
+    num1=int(input("Enter first number:"))
+    num2=int(input("Enter second number:"))
+    return num1*num2
+result=product()
+print(result)

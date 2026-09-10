@@ -26,6 +26,10 @@ git status
 ### command for adding remote repo to local repo
 git remote add name path
 
-### command for adding changed file to github
+### command for adding changed file to github(remote repo)
 git push name master
+
+### command for checking if remote repo is connected
+git remote -v
+
 

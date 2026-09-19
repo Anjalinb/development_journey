@@ -4,3 +4,4 @@ for _ in range(int(input())):
         score = float(input())
         records.append([name,score])
 print(records)
+

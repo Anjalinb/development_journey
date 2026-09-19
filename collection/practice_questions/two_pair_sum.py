@@ -2,7 +2,7 @@ arr=[2,3,4,5,11]
 #    n
 target=16
 
- #method1
+ #method1 two pointer algorithm
 # 2 stable 3,4,5,11 add (repeat)
 for n1 in arr:
     for n2 in arr:

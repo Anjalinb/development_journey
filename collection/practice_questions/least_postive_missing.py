@@ -11,7 +11,7 @@ current_arr_sum=sum(arr)
 difference=total-current_arr_sum   
 print(difference)
 
-#method2
+#method2 sliding window
 arr.sort()
 for p in range(0,len(arr)-1):
     c=p+1
@@ -19,3 +19,4 @@ for p in range(0,len(arr)-1):
     if diiference!=1:
         print("missing is",arr[p]+1)
         break
+

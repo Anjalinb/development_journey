@@ -8,3 +8,10 @@ print(new_l)
 print(new_r)
 
 print("a" in "apple")
+"""
+textwrap has functions/methods such as:
+
+textwrap.wrap() → splits text into a list of lines
+textwrap.fill() → splits text and returns it as one string with \n
+textwrap.shorten() → shortens text to a given width
+"""

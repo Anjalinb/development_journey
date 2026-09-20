@@ -8,3 +8,9 @@ for count in placement_count:
     elif count>second_max:
         second_max=count
 print(second_max)
+
+""" METHOD 2 """
+
+maxx=max(placement_count)
+placement_count.remove(maxx)
+print(max(placement_count))

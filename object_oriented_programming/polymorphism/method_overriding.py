@@ -1,6 +1,6 @@
 """
 METHOD OVERRIDING
-child class redefine the method that is already redefined in parent class
+child class redefine the method that is already defined in parent class
 
 """
 

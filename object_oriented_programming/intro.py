@@ -1,7 +1,6 @@
 """
 oop = a way of programming to convert real world entities to programs using class and object
-class-plan, design pattern, template, bluepri
-nt for creating an object
+class-plan, design pattern, template, blueprint for creating an object
 object= real world entity created using class
 
 CONSTRUCTOR

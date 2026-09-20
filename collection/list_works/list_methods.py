@@ -2,7 +2,7 @@
 """
 ADD:
 append(value)= add object at end of list
-insert(value,index)= inserts value at specific index
+insert(index,value)= inserts value at specific index
 
 REMOVE:
 pop(index): removes object from specific index, default index=-1

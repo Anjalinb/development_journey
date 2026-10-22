@@ -25,7 +25,7 @@ print("Union set=",union_set)
 inter_set=set1.intersection(set2)
 print("Inersection set=",inter_set)
 
-diff_set1=set1.difference(set2) #removes elements of set2 from set1
+diff_set1=set1.difference(set2) #removes elements of set2 from set1  set1-set2
 diff_set2=set2.difference(set1) #removes elements of set1 from set2
 
 print("set1-set2=",diff_set1)

@@ -1,5 +1,5 @@
 """
-polymorphism- many forms
+polymorphism- the same method or interface can behave differently depending on the object.
 -method overloading: same method name, different no of parameters (not supported in python)
 
 

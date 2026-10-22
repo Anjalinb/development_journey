@@ -1,12 +1,9 @@
 def fibonacci(num):
-    first=0
-    second=1
-    print(first)
-    print(second)
-    for i in range(1,num):
-        next=first+second
-        print(next)
-        first=second
-        second=next
+    
+    a, b = 0, 1
 
-fibonacci(10)
+    for i in range(num):
+        print(a, end=" ")
+        a, b = b, a + b
+
+fibonacci(50)
